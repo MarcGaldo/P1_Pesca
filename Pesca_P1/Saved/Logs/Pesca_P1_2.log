@@ -1494,3 +1494,72 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.06-19.44.11:012][611]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.03.06-19.44.11:012][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.575ms to complete.
 [2021.03.06-19.44.11:013][611]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.151
+[2021.03.06-20.26.03:912][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.06-20.26.19:418][912]LogRenderer: Reallocating scene render targets to support 1616x1268 Format 10 NumSamples 1 (Frame:1).
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.MainMenu_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.MainMenu_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.SKEL_MainMenu_C:BndEvt__Exit-Button_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.SKEL_MainMenu_C:WidgetAnimationEvt_DisplayMainMenuTitle_K2Node_WidgetAnimationEvent_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.SKEL_MainMenu_C:BndEvt__Start-Button_K2Node_ComponentBoundEvent_1_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.SKEL_MainMenu_C:BndEvt__Start-Button_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:963][257]LogMetaData: Removing '/Game/Blueprints/Widgets/MainMenu.SKEL_MainMenu_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.PackageMetaData'
+[2021.03.06-20.28.33:998][257]LogSavePackage: Moving '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Saved/MainMenu6AC28E144A7DBBCAA92169A8E0A25908.tmp' to '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Content/Blueprints/Widgets/MainMenu.uasset'
+[2021.03.06-20.28.34:003][257]LogSavePackage: Moving '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Saved/MainMenuA70DF8AF4D1E244396A4EF9D843113E5.tmp' to '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Content/ThirdPersonBP/Blueprints/Widgets/MainMenu.uasset'
+[2021.03.06-20.28.34:054][257]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.06-20.28.34:054][257]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/MainMenu.MainMenu
+[2021.03.06-20.28.34:054][257]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.MainMenu
+[2021.03.06-20.28.34:054][257]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.Default__MainMenu_C
+[2021.03.06-20.28.34:054][257]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.MainMenu_C
+[2021.03.06-20.28.46:054][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.03.06-20.28.46:161][518]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.06-20.28.54:947][518]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.06-20.28.54:959][518]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.MainMenu
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.Default__MainMenu_C
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.MainMenu_C
+[2021.03.06-20.28.55:407][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.03.06-20.29.01:291][132]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/Widgets/MainMenu.MainMenu'
+[2021.03.06-20.29.39:275][201]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.03.06-20.29.50:785][487]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.03.06-20.29.50:785][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-20.30.54:974][489]LogSlate: Window 'Message Log' being destroyed
+[2021.03.06-20.30.54:977][489]LogSlate: Window 'Message Log' being destroyed
+[2021.03.06-20.31.40:157][781]LogMetaData: Removing '/Game/Blueprints/Widgets/PlayerHUD.SKEL_PlayerHUD_C' ref from Metadata '/Game/Blueprints/Widgets/UI.PackageMetaData'
+[2021.03.06-20.31.40:157][781]LogMetaData: Removing '/Game/Blueprints/Widgets/PlayerHUD.PlayerHUD_C' ref from Metadata '/Game/Blueprints/Widgets/UI.PackageMetaData'
+[2021.03.06-20.31.40:157][781]LogMetaData: Removing '/Game/Blueprints/Widgets/PlayerHUD.PlayerHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Widgets/UI.PackageMetaData'
+[2021.03.06-20.31.40:157][781]LogMetaData: Removing '/Game/Blueprints/Widgets/PlayerHUD.PlayerHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Widgets/UI.PackageMetaData'
+[2021.03.06-20.31.40:157][781]LogMetaData: Removing '/Game/Blueprints/Widgets/PlayerHUD.PlayerHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Widgets/UI.PackageMetaData'
+[2021.03.06-20.31.40:180][781]LogSavePackage: Moving '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Saved/PlayerHUD1C5C173E4874D4244219C5B8C276A370.tmp' to '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Content/Blueprints/Widgets/PlayerHUD.uasset'
+[2021.03.06-20.31.40:251][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.03.06-20.31.40:281][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.03.06-20.31.40:300][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.06-20.31.40:330][781]AssetCheck: New page: Asset Save: PlayerHUD
+[2021.03.06-20.31.40:330][781]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/PlayerHUD.PlayerHUD
+[2021.03.06-20.31.55:471][390]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/PlayerHUD.PlayerHUD
+[2021.03.06-20.31.58:353][697]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.06-20.31.58:353][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-20.31.58:364][697]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.06-20.31.58:364][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-20.32.47:873][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.03.06-20.32.47:874][ 81]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.042
+[2021.03.06-20.32.47:878][ 81]LogSavePackage: Moving '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Saved/MainMenu_Auto16D5F17344F942ABB1DF068B3F8A10D3A.tmp' to '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Widgets/MainMenu_Auto1.uasset'
+[2021.03.06-20.32.47:879][ 81]LogFileHelpers: Auto-saving content packages took 0.005
+[2021.03.06-20.35.55:942][821]LogMetaData: Removing '/Game/Blueprints/Widgets/FishingWidget.FishingWidget_C' ref from Metadata '/Game/Blueprints/Widgets/PlayerHUD.PackageMetaData'
+[2021.03.06-20.35.55:942][821]LogMetaData: Removing '/Game/Blueprints/Widgets/FishingWidget.SKEL_FishingWidget_C' ref from Metadata '/Game/Blueprints/Widgets/PlayerHUD.PackageMetaData'
+[2021.03.06-20.35.55:942][821]LogMetaData: Removing '/Game/Blueprints/Widgets/FishingWidget.FishingWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Widgets/PlayerHUD.PackageMetaData'
+[2021.03.06-20.35.55:942][821]LogMetaData: Removing '/Game/Blueprints/Widgets/FishingWidget.FishingWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Widgets/PlayerHUD.PackageMetaData'
+[2021.03.06-20.35.55:942][821]LogMetaData: Removing '/Game/Blueprints/Widgets/FishingWidget.FishingWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Widgets/PlayerHUD.PackageMetaData'
+[2021.03.06-20.35.55:973][821]LogSavePackage: Moving '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Saved/FishingWidget362E45D74C08AF31427EF09875B80F2A.tmp' to '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Content/Blueprints/Widgets/FishingWidget.uasset'
+[2021.03.06-20.35.56:050][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.03.06-20.35.56:075][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.06-20.35.56:089][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.03.06-20.35.56:116][821]AssetCheck: New page: Asset Save: FishingWidget
+[2021.03.06-20.35.56:116][821]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/FishingWidget.FishingWidget
+[2021.03.06-20.35.58:937][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.03.06-20.35.58:957][122]LogSavePackage: Moving '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Saved/ThirdPersonExampleMap947DC57B4932C5C596057F8DFBD17E79.tmp' to '../../../../../../Tecnocampus/3r/2nTrimestre/Motors de Jocs/Practiques Ricard/P1_PescaUnreal/P1_Pesca/Pesca_P1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.06-20.35.58:982][122]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.03.06-20.35.58:982][122]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.06-20.36.04:555][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.03.06-20.36.04:675][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
